@@ -1,0 +1,19 @@
+# .swiftlint.yml
+
+# ... 其他配置 ...
+
+# 指向包含 CustomRules.swift 的目录或编译好的 dylib
+custom_rules:
+  - path/to/your/custom_rules_directory # 或者 path/to/CustomRules.dylib
+  # 或者使用 Swift Package Manager (需要额外配置)
+
+opt_in_rules: # 或者添加到 enabled_rules
+  # ... 其他规则 ...
+  - expensive_initializer
+  - expensive_init_method
+
+# (可选) 配置规则的严重性
+expensive_initializer: warning
+expensive_init_method: warning
+
+# ... 其他配置 ...
