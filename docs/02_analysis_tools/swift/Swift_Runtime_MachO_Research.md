@@ -1,8 +1,5 @@
 # Swift Runtime 与 Mach-O 元数据研究 V0.1 (草稿)
 
-**版本**: 0.1
-**日期**: [请替换为当前日期]
-**研究者**: [你的名字/AI]
 
 ## 1. 引言
 
@@ -83,9 +80,3 @@
 *   WWDC Session: (搜索 Swift Runtime, Linking, App Startup 相关 Session)
 *   Swift 源码: [https://github.com/apple/swift](https://github.com/apple/swift) (特别是 `stdlib/public/runtime` 目录)
 *   社区博客文章: (搜索 Swift ABI, Metadata, Runtime Internals)
-
-## 9. 版本修订
-
-| 版本 | 日期       | 修订者     | 说明               |
-| ---- | ---------- | ---------- | ------------------ |
-| 0.1  | [今天日期] | [你的名字/AI] | 初稿，建立研究大纲 | 

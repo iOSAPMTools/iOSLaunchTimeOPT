@@ -1,8 +1,5 @@
 # Clang 启动性能扫描插件 (LaunchGuardPlugin) 说明 V1.0
 
-**版本**: 1.0
-**日期**: [请替换为当前日期]
-
 ## 1. 概述
 
 LaunchGuardPlugin 是一个 Clang 插件，旨在通过静态分析 Objective-C/C++ 代码，在编译期间检测可能影响 iOS 应用启动性能的不良编码实践。它可以帮助开发者提前发现问题，遵守性能规范。

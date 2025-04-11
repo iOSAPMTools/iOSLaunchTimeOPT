@@ -1,8 +1,5 @@
 # Swift 静态分析用于启动性能检查的可行性调研 V1.0
 
-**版本**: 1.0
-**日期**: [请替换为当前日期]
-**研究者**: [你的名字/AI]
 
 ## 1. 背景与目标
 
@@ -105,12 +102,3 @@
 *   SwiftLint 官方文档 (自定义规则): [https://realm.github.io/SwiftLint/rule-directory.html#custom-rules](https://realm.github.io/SwiftLint/rule-directory.html#custom-rules)
 *   SourceKit 文档 / WWDC Sessions
 *   社区关于 SwiftLint 自定义规则 / SwiftSyntax 使用的教程和文章
-
-## 7. 版本修订
-
-| 版本 | 日期       | 修订者     | 说明                                     |
-| ---- | ---------- | ---------- | ---------------------------------------- |
-| 0.1  | [旧日期]   | [你的名字/AI] | 初稿，定义调研范围和初步评估             |
-| 1.0  | [今天日期] | [你的名字/AI] | **充实工具分析、规则细化和可行性评估** |
-
-</rewritten_file> 
